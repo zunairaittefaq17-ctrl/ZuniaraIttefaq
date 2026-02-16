@@ -1006,3 +1006,9 @@ html {
         --shadow-hover: rgba(45, 212, 191, 0.4);
     }
 }
+/* FINAL ABOUT TEXT FIX - LIGHT & DARK BOTH */
+
+#about .about-text p {
+    color: var(--text-primary) !important;
+    opacity: 1 !important;
+}
